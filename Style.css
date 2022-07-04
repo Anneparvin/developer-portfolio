@@ -24,4 +24,11 @@ h1{
      border-radius: 5px;
 }
 
-
+.top-banner{
+     background-image:abcd.jpg;
+     background-repeat: no-repeat;
+}
+.dream-big{
+     background-image: abcd.jpg;
+     background-repeat: no-repeat;
+}
